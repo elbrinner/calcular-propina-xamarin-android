@@ -1,8 +1,3 @@
-<style type="text/css">
-	img { max-width: 100%; height: auto; }
-</style>
-
-
 <h1>Ejercicio 1: Crear un proyecto Xamarin.Android para calcular la propina</h1>
 
 <ol>

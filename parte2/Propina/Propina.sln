@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Propina", "Propina\Propina.csproj", "{DBEBE409-F15D-4654-B4B7-F046B4EDE14A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBEBE409-F15D-4654-B4B7-F046B4EDE14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEBE409-F15D-4654-B4B7-F046B4EDE14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEBE409-F15D-4654-B4B7-F046B4EDE14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEBE409-F15D-4654-B4B7-F046B4EDE14A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
